@@ -1,0 +1,50 @@
+
+/*@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');h1 {*/
+	
+	h1 {
+		color: cornflowerblue;
+	}
+	p {
+		color: brown;
+	}
+	.text {
+		color: darkblue;
+	}
+	h2,
+	h3 {
+		color: green;
+	}
+	p.paragraph {
+		color: grey;
+	}
+	a {
+		color: hotpink;
+	}
+	span {
+		color: yellow;
+	}
+	.pink {
+		color: pink;
+	}
+	.green {
+		color: green;
+	}
+	.orange {
+		color: orange;
+	}
+	.sky-blue {
+		color: skyblue;
+	}
+	.purple {
+		color: purple;
+	}
+	.red {
+		color: red;
+	}
+	.text.block {
+		color: blueviolet;
+	}
+	#block {
+		color: lawngreen;
+	}
+	
